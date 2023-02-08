@@ -28,7 +28,7 @@ main {
   margin: auto;
 }
 .img-section {
-  height: 400px;
+  height: 450px;
   width: 50%;
   background-image: url("./assets/image-product-desktop.jpg");
   background-position: center;
@@ -42,7 +42,7 @@ main {
   background-color: var(--white);
   border-top-right-radius: 20px;
   border-bottom-right-radius: 20px;
-  padding: 1rem 2rem;
+  padding: 2rem;
 }
 .details-wrapper {
   width: 90%;
@@ -59,7 +59,7 @@ main {
 }
 .details-section__desc {
   color: var(--grayish-blue);
-  padding: 0.5rem 0;
+  padding: 1rem 0;
 }
 .price {
   display: flex;
